@@ -39,3 +39,5 @@ The problem with the data is that it only tells us of those journeys where there
 # Conclusion:
 
 In conclusion, based on the work done below, the data set cannot tell us the the possibility of getting into a car accident, but can tell us that if we are in an accident in certain conditions how severe it would be.
+
+The decision tree model works 100% of the time on the test data after being trained. 
